@@ -1,5 +1,5 @@
 {
-  "name": "@advisr-io/passport-slack-oauth2",
+  "name": "@advisr/passport-slack-oauth2",
   "version": "1.2.1",
   "description": "",
   "keywords": [
