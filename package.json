@@ -1,6 +1,6 @@
 {
-  "name": "passport-slack-oauth2",
-  "version": "1.2.0",
+  "name": "@advisr-io/passport-slack-oauth2",
+  "version": "1.2.1",
   "description": "",
   "keywords": [
     "passport",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmaves/passport-slack-oauth2.git"
+    "url": "git+https://github.com/advisr-io/passport-slack-oauth2.git"
   },
   "author": {
     "name": "Nathan Maves",
